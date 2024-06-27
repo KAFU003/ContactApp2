@@ -1,0 +1,25 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <EditText
+        android:id="@+id/edtName"
+        android:layout_width="372dp"
+        android:layout_height="71dp"
+        android:hint="姓名" />
+
+    <EditText
+        android:id="@+id/edtPhone"
+        android:layout_width="371dp"
+        android:layout_height="64dp"
+        android:hint="電話"
+        android:inputType="phone" />
+
+    <Button
+        android:id="@+id/btnAdd"
+        android:layout_width="371dp"
+        android:layout_height="wrap_content"
+        android:text="確認新增" />
+</LinearLayout>

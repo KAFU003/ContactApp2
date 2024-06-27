@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyBottomNav</string>
+    <string name="menu_left">左邊的選單</string>
+    <string name="menu_middle">放在中間</string>
+    <string name="menu_right">右邊</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
